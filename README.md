@@ -6,7 +6,7 @@ Autobuyer uses the Selenium Library, goes to
 ## Autobuyer Windows Installation:
 1. Open CMD and type <kbd>py -m pip install selenium</kbd>
 2. You can now run the tool. Double click mlbautobuyer.py or <kbd>cd</kbd> to the path in cmd, then run it with <kbd>py mlbautobuyer.py</kbd>
-# Usage:
+## Usage:
 1. Go to the MLB page of the card you want to buy repeatedly.
 2. Run the tool, then answer the prompted questions. The tool will then run automatically. Solve a captcha if asked to and the tool will continue to work.
 # Sniper
