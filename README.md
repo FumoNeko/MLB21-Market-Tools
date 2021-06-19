@@ -2,7 +2,7 @@
 There are 2 main Tools in this package. Both of them use python, you can install python here: https://www.python.org/downloads/
 You CANNOT use this tool without installing Python.
 # Autobuyer
-mlbautobuyer.py uses the Selenium Library, goes to the mlb market website and repeatedly enters buy orders to easily scalp cards of players quickselling.
+mlbautobuyer.py uses the Selenium Library, goes to the mlb market website and repeatedly enters buy orders to easily scalp cards of players quickselling. Autobuyer is almost finished and requires additional testing in order to partially or completely bypass the CAPTCHA by arktos labs.
 ## Autobuyer Windows Installation:
 1. Open CMD and type <kbd>py -m pip install selenium</kbd>
 2. You can now run the tool. Double click mlbautobuyer.py or <kbd>cd</kbd> to the path in cmd, then run it with <kbd>py mlbautobuyer.py</kbd>
